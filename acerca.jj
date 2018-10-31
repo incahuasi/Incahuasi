@@ -1,0 +1,29 @@
+<body>
+	<aside id="face">
+		<!--facebook-->
+      <iframe class="iframe" src="https://www.facebook.com/plugins/like.php?href=http://www.facebook.com%3A%2F%2FIncahuasiLambayeque%2F&width=75&layout=box_count&action=like&show_faces=true&share=true&height=65&appId" width="75" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+          <!--publicidad-->
+	</aside>
+	<section id="cuerpo">
+
+		<div id="pestanas">
+				<ul>
+					<li><a href="#pestana1">INCAHUASI</a></li>
+					<li><a href="#pestana2">R. E. DE LAQUIPAMPA</a></li>
+                	<li><a href="#pestana3">TURISMO</a></li>
+				</ul>
+			<div id="pestana1">
+				<?php include"pestana_1.mt";?>
+      		</div>
+			<div id="pestana2">
+				<?php include"pestana_2.mt";?>
+			</div>
+			<div id="pestana3">
+				<?php include"pestana_3.mt";?>
+			</div>
+				   			
+		
+		</div>
+	  </div>
+	</section>
+</body>
