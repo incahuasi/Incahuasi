@@ -1,0 +1,63 @@
+<body>
+	<aside id="face">
+		<!--facebook-->
+       <iframe class="iframe" src="https://www.facebook.com/plugins/like.php?href=http://www.facebook.com%3A%2F%2FIncahuasiLambayeque%2F&width=75&layout=box_count&action=like&show_faces=true&share=true&height=65&appId" width="75" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+          <!--publicidad-->
+	</aside>
+	<section id="cuerpo">
+
+	<div id="input">
+	    <input class="input" type="button" id="revelar" value="OCULTAR">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <input class="input" type="button" id="ocultar" value="MOSTRAR">
+	</div>
+	<section class="fad" id="fotos">
+	    <div>
+	        <a href="00011.jpg" rel="trabajos" class="fade">
+		<img src="00011.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0001.jpg" rel="trabajos" class="fade">
+		<img src="0001.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0002.JPG" rel="trabajos" class="fade">
+		<img src="0002.JPG" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0003.jpg" rel="trabajos" class="fade">
+		<img src="0003.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="00010.jpg" rel="trabajos" class="fade">
+		<img src="00010.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0004.jpg" rel="trabajos" class="fade">
+		<img src="0004.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0005.jpg" rel="trabajos" class="fade">
+		<img src="0005.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0007.jpg" rel="trabajos" class="fade">
+		<img src="0007.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0008.jpg" rel="trabajos" class="fade">
+		<img src="0008.jpg" alt="" id="fade"></a>
+		</div>
+		<div>
+		    <a href="0009.jpg" rel="trabajos" class="fade">
+		<img src="0009.jpg" alt="" id="fade"></a>
+		</div>
+		   
+                 </fieldset>
+                 </form>
+        <article class="comentarios">
+         <div class="fb-comments" data-href="http://incahuasi.webcindario.com/contacto.php" data-width="100%" data-numposts="5">                 	
+         </div>
+        </article>
+	</section>
+	</section>
+</body>

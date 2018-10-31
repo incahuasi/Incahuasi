@@ -1,0 +1,114 @@
+<body>
+	<aside id="face">
+		<!--facebook-->
+      <iframe class="iframe" src="https://www.facebook.com/plugins/like.php?href=http://www.facebook.com%3A%2F%2FIncahuasiLambayeque%2F&width=75&layout=box_count&action=like&show_faces=true&share=true&height=65&appId" width="75" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+          <!--publicidad-->
+	</aside>
+	<section id="cuerpo">
+
+		<div id="pestanas">
+			<ul>
+				<li><a href="#pestana1">INCAHUASI</a></li>
+				<li><a href="#pestana2">LUGARES TURISTICOS</a></li>
+			</ul>
+		<div id="pestana1">
+			<img id="ic" align="right" src="0inca.jpg" alt="Incahuasi" />
+      
+      <div class="content">
+        <h4>DISTRITO DE INCAHUASI
+CREACIÓN:</h4><p> Fue creado el 17 de Febrero de 1951, según Ley Nº 11590
+UBICACIÓN: Se encuentra ubicada en la parte noreste del departamento a lo largo de la cuenca media alta del río La Leche, entre los paralelos 6º 05' 00'' y 6º 24' 30'' latitud sur y los meridianos 79º 16' 10'' y 79º 30' 00'' de longitud oeste, presentan alturas que van de los 310 a 4,000 metros sobre el nivel del mar.
+La superficie es de aproximadamente 41,735 hectáreas, tiene 79 centros poblados rurales con categoría de caseríos.</p>
+        
+        <h4>ORIGEN ETIMOLÓGICO: </h4><p>
+El nombre de Incahuasi deriva de dos voces quechuas: Inca = Rey; Huasi = Casa, lo que uniendo ambas voces significa casa del soberano. 
+Según versiones dan cuenta que el Inca en sus viajes a Cajamarca a Quito (Ecuador) hacia un alto en este lugar para descansar, así lo demuestra una red de caminos que aun con el transcurrir del tiempo permanece imborrable hasta nuestros días.</p><br>
+ 
+      </div>
+
+
+ <img id="ich" align="left" src="0inca2.jpg" alt="Incahuasi" />
+      
+      <div class="content">
+        <h4>SITUACIÓN POLÍTICA: </h4><p>
+
+El Distrito de Incahuasi teniendo como capital el mismo nombre, fue elevado a 
+la categoría de Distrito, según ley 11590 del 17 de Febrero de 1951. 
+Actualmente cuenta con 7 Centros Poblados y más de 6 Comunidades 
+Campesinas.
+ALCALDE: Manayay Lucero Cesar Martans 
+LIMITES: 
+Los límites del Distrito andino de Inkawasi son: 
+Por el Norte: Con el Distrito de Cañaris. 
+Por el Sur : Con el Distrito de Pítipo y Miracosta. 
+Por Este : Con los distritos de Querocotillo, Miracosta.
+Por el Oeste: Con los Distritos de Salas y Jayanca.</p>
+        
+        <h4>EXTENSIÓN Y POBLACIÓN </h4><p>
+
+• La extensión territorial es de 417.35 Km2.<BR/>
+• Su población es de 16253 Habitantes.</p><br>
+        
+        <h4>HIDROGRAFÍA:</h4><p>
+El Territorio tiene dos cuencas, la de Moyán que forma (junto con la de 
+Sangana), río de la leche y otro lado de la divisoria continental de aguas, parte de la naciente de la cuenca de Cañaris. De la Lagunas de Tembladera y Minas, bajan las quebradas de Tikwaka y Sinchihual, para formar en Tinkuq la parte alta de la cuenca de Moyán.</p>
+ 
+      </div>
+
+
+
+      <img id="uyr" align="right" src="0uyurp.jpg" alt="Incahuasi" />
+      
+      <div class="content">
+        <h4>CLIMA:</h4><p>
+El clima predominante es el típico de los valles de la vertiente occidental de los Andes
+TEMPERATURA: La temperatura media anual varía entre 12º a 17º C.</p>
+        
+        <h4>RECURSOS NATURALES:</h4><p>
+Se localizan en las márgenes del río Moyán con mayor predominancia en la zona de puna alta, donde la flora y la fauna son excelentes condiciones.</p>
+        
+        <h4>FLORA:</h4><p>
+Existen bosques, arbustos, árboles y plantas medicinales (toronjíl, manzanilla, romero, lauchi, uña de gato, culén, matico, etc.)</p>
+                <h4>FAUNA:</h4><p>
+Entre los principales variedades sobresalen: sajino, venados, perdiz, pava aliblanca, iguanas, culebras verdes, etc.</p>
+
+                <article class="comentarios">
+                 <div class="fb-comments" data-href="http://incahuasi.webcindario.com/contacto.php" data-width="100%" data-numposts="5">                 	
+                 </div>
+                </article>
+      </div>
+
+		</div>
+		<div id="pestana2">
+		    <div class="fotos">
+			<img class="turismo" src="001.jpg" alt="">
+			</div>
+			<div class="texto">
+			
+			</div>
+			<div class="fotos">
+			<img class="turismo" src="003.jpg" alt="">
+			</div>
+			<div class="texto">
+			
+			</div>
+			<div class="fotos">
+			<img class="turismo" src="005.jpg" alt="">
+			</div>
+			<div class="texto">
+			
+			</div>
+			<div class="fotos">
+			<img class="turismo" src="004.jpg" alt="">
+			</div>
+			<div class="texto">
+			
+			</div>
+		        <article class="comentarios">
+                 <div class="fb-comments" data-href="http://incahuasi.webcindario.com/contacto.php" data-width="100%" data-numposts="5">                 	
+                 </div>
+                </article>
+		</div>
+	  </div>
+	</section>
+</body>
