@@ -1,0 +1,519 @@
+body{
+	background: #8FA0C6;
+	font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+    #pst a{
+	  text-decoration: none;
+	  list-style-type: none;
+    }
+    header#main-header {
+      background: #4E4C5E;
+      color: white;
+      height: 40px;  
+      margin: auto;
+      padding: 2em;     
+      width: 1153px;
+      border-bottom: 2px solid #E47100; 
+    } 
+    #main-header a {
+      color: white;
+    }
+    #logo-header {
+      float: left;
+      padding: 10px 0 0 0;
+      text-decoration: none;
+    }
+    #logo-foto{
+      float: left;
+      margin-top: -.9em;
+      text-decoration: none;
+    }
+    #logo-header:hover {
+      color: #0b76a6;
+    }
+  
+    #logo-header{
+      display: inline-block;
+      font-weight: 700;
+      font-size: 1.5em;
+    }
+    .site-name {
+      display: inline-block;
+      font-weight: 700;
+      font-size: 1.5em;
+    }
+    #logo-header{
+      display: block;
+      font-weight: 300;
+      font-size: 0.8em;
+      color: #999;
+    }
+    .site-desc {
+      display: block;
+      font-weight: 300;
+      font-size: 1em;
+      color: #999;
+    }
+    #main-footer {
+      background: #4E4C5E;
+      border-top: 2px solid #f60;
+      color: #F60;
+      left: 0;
+      margin-bottom: 0;
+      margin: auto;
+      padding: 20px;
+      padding: 2em;
+      text-align: right;
+      width: 1153px;
+    }
+    #main-footer p{
+      margin: 0;
+      display: inline-block;
+      color: #FFFFFF;
+    }
+    #main-footer p#autor{
+      margin: 0 auto;
+      display: inline-block;
+      float: left;
+      color: #FFFFFF;
+    }  
+    #main-footer a {
+      color: #fff;
+      text-decoration: none;
+      text-shadow:5px 5px 5px rgba(255, 255, 255, 1.0);
+
+    }
+    nav {
+      float: right;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      padding-right: 20px;
+    }
+  
+    nav ul li {
+      display: inline-block;
+      line-height: 40px;
+      background: #333;
+    }
+      
+    nav ul li a {
+      display:block;
+      padding: 0 20px;
+      text-decoration: none;
+      transition: 1s;
+    }
+      
+    nav ul li a:hover {
+      background: #0b76a6;
+      transition: 1s;
+    }
+    section#cuerpo{
+    background: #FFFFFF;
+    width: 1216px;
+    margin:0 auto;
+  }
+  aside#face{
+    float: left;
+    position: fixed;
+    margin-top: 20em;
+    z-index: 1;
+  }
+  div.flexslider{
+    background: #1E6381;
+    border:.8em solid #1E6381;
+    border-radius:.8em;
+    display: inline-block;
+    width: 790px;
+    margin-left: .5em;
+    z-index: 0;
+  }
+   div.flexslider ul li img{
+    border-radius: .5em;
+   }
+   section#fotos_1{
+      background: #1E6381;
+      width: 1216px;
+      border-bottom: 5px solid #F60;
+  }
+  section.video{
+    padding: 2em;
+    width: 1151px;
+  }
+
+
+
+section.video h1, H1#tranca{
+  background: #f60;
+  color: #212121;
+  padding: 0;
+  margin: 0;
+  font-family: Akronim;
+  text-align: center;
+}
+h1#cps{
+  background: #fff;
+  color: red;
+  font-family: Arial;
+  font-size: 1.2em;
+}
+h2#link_video, h1#link_cp{
+  background: #FFFFFF;
+  color: red;
+  font-family: UnifrakturMaguntia;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+section.video p{
+  background: #FFFFFF;
+  color: #212121;
+  padding: 0;
+  margin: 0;
+  font-family: Abel;
+  text-align: center;
+  }
+  div#centros_poblados img{
+    width: 900px;
+    height: 400px;
+  }
+  div#centros_poblados p{
+    font-family: Arial;
+  }
+  img#linea{
+    width: 900px;
+    height: 20px;
+  }
+/*La Tranca*/
+div#centros_poblados{
+  width: 900px;
+  display: inline-block;
+}
+  div#links_1{
+    width: 240px;
+    height: 800px;
+    float: right;
+    display: inline-block;
+  }
+  div#links_1 nav ul {
+    width: 200px;
+  }
+   div#links_1 nav ul li{
+    width: 200px;
+    text-align: center;
+  }
+  div#links_1 nav ul li a{
+    font-family: Abel;
+    color: #212121;
+  }
+  div#links_1 nav ul li.uno{
+    background: #CFC9C9;
+    border-bottom:2px solid #0DE8F0;
+  }
+  div#links_1 nav ul li.dos{
+    background: #917474;
+    border-bottom:2px solid #0DE8F0;
+  }
+
+
+
+  h2#platos_tipicos{
+    color: red;
+    text-align: center;
+  }
+  nav#links_pt ul li{
+    background: #BDC4BE;
+    text-align: ;
+  }
+  nav#links_bebidas ul li{
+    background: #BDC4BE;
+  }
+
+
+
+
+
+
+  #video{
+      border: 3px solid orange;
+      display: inline-block;
+      margin: 1em auto;
+      width: 559px;
+    }
+     div#himno{
+      background: #1E6381;
+      border:#1E6381 .2em solid;
+      border-radius: .2em;
+      display: inline-block;
+      padding: .8em;
+      width:340px;
+    }
+    img#himno{
+      width:340px;
+    }
+    #fotos, .video{
+      display: inline-block;
+    }
+    audio{
+      background: orange;
+      padding: 2px;
+      margin: auto;
+      width: 100%;
+    }   
+    article.comentarios{
+      background: #ccc;
+      width: 900px;
+      display: inline-block;
+      margin-left: 8px;
+    }
+
+    /*acerca*/ 
+
+
+  h1#h1{
+    color: red;
+    font-family: Arial;
+    text-align: center;
+  }
+  div.content p, p#rel{
+    color:#204862;
+    margin: 0;
+    margin-bottom: 2px;
+    padding: 0;
+  }
+  h1.turismo{
+    font-family: sans-serif;
+    color: crimson;
+    margin: 0;
+    padding: 0;
+  }
+  div.content p, p#rel{
+    font-family: Arial;
+    text-align: justify;
+  }
+  h4#h4{
+    margin: 0;
+    padding: 0;
+  }
+  p#fuente{
+    color: #212121;
+    font-family: sans-serif;
+    text-align: right;
+  }
+  table{
+    color:#204862;
+  }
+  img#ich, p#p_1, img#uyr, #ic{
+    padding: 0;
+    margin: 0;
+  }
+  div#fotos_left{
+    background: #D7D4D4;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #969595;
+    float: left;
+    margin-right: 15px;
+    padding: .2em;
+    text-align: center;
+    width: 330px;
+  }
+  div#fotos_right, div#fotos_right_1{
+    background: #D7D4D4;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #969595;
+    float: right;
+    margin-left: 15px;
+    padding: .2em;
+    text-align: center;
+    width: 330px;
+  }
+  div#fotos_right_1{
+    width: 200px;
+  }
+  div#fotos_2_fotos, div#fotos_3_fotos, div#fotos_2_fotos_1{
+    background: #D7D4D4;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #969595;
+    display: inline-block;
+    width:31%;
+    padding: .2em;
+    max-width: 100%;
+    min-height: 294px;
+    margin: 5px auto;
+    vertical-align: top;
+  }
+  div#fotos_3_fotos{
+    width: 63%;
+    display: inline-block;
+    
+  }
+  article#fotos_2{
+    display: inline-block;
+    width: 32%;
+    max-width: 100%;
+    min-height: 300px;
+    margin-right: 0;
+  }
+  article#texto_txt{
+    background: #D7D4D4;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #969595;
+    display: inline-block;
+    margin: 5px auto;
+    max-width: 100%;
+    min-height: 200px;
+    padding: .2em;
+    vertical-align: top;
+    width: 18%;
+  }
+  #fotos_2_fotos_1 h4, #fotos_2_fotos h4, div#fotos_3_fotos h4#h4_h4{
+    background: #212121;
+    color: #FFF;
+    margin:0.25em auto;
+    border-radius: 4px 4px 4px 4px;
+    text-shadow: 5px 5px 10px rgba(10,198,228,5);
+  }
+  article#texto_txt h4#h4{
+    background: #212121;
+    color: #F60;
+    margin:0.25em auto;
+    border-radius: 4px 4px 4px 4px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+  }
+  div#fotos_2_fotos_1{
+    display: block;
+    width: 97%;
+    margin-left: 0;
+  }
+  #ich, #ic, #uyr{
+    width: 330px;
+  }
+  #ich_1{
+    width: 200px;
+    height: 220px;
+  }
+  #tranca{
+    background:#e78f08;
+  }
+  img.turismo{
+    width: 640px;
+  }
+  div.fotos, div.texto{
+    display: inline-block;
+  }
+  div.fotos{
+    width: 550px;
+  }
+  div.texto{
+    background: #D7D4D4;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #969595;
+    float: right;
+    padding: .2em;
+    text-align: justify;
+    width: 500px;
+    min-height: 470px;
+  }
+  /*fotos*/
+  section#fotos{
+    background: #ffffff;
+    margin:auto 1.6em;
+    width: 1153px;
+  }
+  section#fotos div{
+    display: inline-block;
+  }
+  img#fade{
+    display: inline-block;
+    margin-left: .5em;
+    width: 550px;
+    border: .2em solid rgba(255, 2, 255, .5);
+    border-radius: .2em;
+  }
+  input.input{
+    background: black;
+    padding: .2em;
+    color: orange;
+  }
+  div#input{
+    padding-bottom: 1em;
+    margin-left: 1.5em;
+  }
+  /*contacto*/
+  textarea#comentarios{
+        max-width: 500px;
+        max-height: 60px;
+        width: 95%;
+    }
+    #contenido{
+        margin: auto;
+        padding: 2em;
+    }
+    section#contenido_ct{
+      height: 700px;
+    }
+    input[type="email"], input[type="text"], textarea{
+        background:#EEE;
+        border-radius: .25em;
+        color: #600;
+        font-size: 1em;
+        padding:.25em;
+        width:95%;
+    }
+
+    input[type="email"]:focus, input[type="text"]:focus, textarea:focus{
+        background: #C6ECF9; 
+    }
+    input[type="submit"] {
+        background: #F90;
+        border-radius:0  .25em;
+        color: #500;
+        font-family: "Chalet";
+        font-size: 1.25em;
+        padding: .25em; 
+    }
+    section#contacto{
+        background: #011E30;
+        border-radius: .5em;
+        min-height:350px;
+        width: 540px;
+        padding: .8em;
+        text-align:justify;
+        float: left; 
+ 
+    }
+    section#mapa{
+        background: #011E30;
+        border-radius: .5em;
+        height:500px;
+        width: 540px;
+        padding: .8em;
+        text-align:justify;
+        float: right;
+    }
+    article#info-contacto, article#contactanos{
+        border: .1em solid #1E6381;
+        border-radius: .5em;
+        margin: .5em;
+        min-height: 144px;
+        padding: .5em;
+    }
+    span.datos-contacto{
+        color:#F90;
+        margin-left: 1em;
+    }
+    #lg, #p{
+        font-family: 'Bree Serif', serif;
+        color:#CAC8C8;
+    }
+    h2#h2{
+        font-family: 'Orbitron', sans-serif;
+        color:orange;
+    }
