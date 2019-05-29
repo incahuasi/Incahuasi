@@ -26,13 +26,13 @@
                 Social Media: <br /></p>
 
                 <span class="datos-contacto"></span>
-                  <a class="fade" href="https://www.facebook.com/IncahuasiLambayeque" title="Facebook" target="_blank"><<img src="facebook-logo.png" alt=""></a>
+                  <a class="fade" href="https://www.facebook.com/IncahuasiLambayeque/" title="Facebook" target="_blank"><img src="img/facebook-logo.png" alt=""></a>
                   &nbsp;&nbsp;&nbsp;  <!--sirve para dar espacio-->
-                  <a class="fade" href="https://twitter.com/JavierJH97" title="twitter" target="_blank"><<img src="twitter-logo.png" alt=""></a>
+                  <a class="fade" href="https://twitter.com/Incahuasi_P" title="twitter" target="_blank"><img src="img/twitter-logo.png" alt=""></a>
                   &nbsp;&nbsp;&nbsp;
-                  <a class="fade" href="https://mail.google.com/mail/u/0/#inbox" title="google" target="_blank"><<img src="img/google-plus-logo.png" alt=""></a>
+                  <a class="fade" href="https://mail.google.com/mail/u/0/#inbox" title="google" target="_blank"><img src="img/google-plus-logo.png" alt=""></a>
                   &nbsp;&nbsp;&nbsp;
-                  <a class="fade" href="https://www.youtube.com/channel/UCTqcQ50GWYGvnaIuoitaY9A"title="youtube" target="_blank"><<img src="youtube-logo.png" alt=""></a>
+                  <a class="fade" href="https://www.youtube.com/channel/UCAafDKFJrwU6-UUSeTc2KJw/"title="youtube" target="_blank"><img src="img/youtube-logo.png" alt=""></a>
                   &nbsp;&nbsp;&nbsp;
           </article>
            <article id="contactanos">
