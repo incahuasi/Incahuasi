@@ -128,7 +128,7 @@
 	  	  <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/T3qR4JOIkVc" frameborder="0" allowfullscreen></iframe>
 	  </section>
 	  <article>
-	  	<div class="fb-comments" data-href="https://incahuasi.herokuapp.com/index.php" data-width="80%" data-numposts="3"></div>                	
+	  	<div class="fb-comments" data-href="https://incahuasi.herokuapp.com/index.php" data-width="100%" data-numposts="3"></div>                	
        </div>
       </article>
 	</section>
