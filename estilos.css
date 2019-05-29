@@ -179,7 +179,7 @@ section.video p{
   font-family: Abel;
   text-align: center;
   }
-  div#centros_poblados img{
+  div#centros_poblados embed{
     width: 900px;
     height: 400px;
   }
