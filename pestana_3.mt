@@ -30,7 +30,7 @@
 			     <p id="txt_turismo"></p>
 			</div>
 		        <article class="comentarios">
-                 <div class="fb-comments" data-href="http://incahuasi.webcindario.com" data-width="100%" data-numposts="5">                 	
+                 <div class="fb-comments" data-href="https://incahuasi.herokuapp.com/?/=acerca.jj" data-width="100%" data-numposts="5">                 	
                  </div>
                 </article>
 		</div>
