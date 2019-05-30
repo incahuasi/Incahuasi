@@ -309,6 +309,7 @@ div#centros_poblados{
   div.fotos{
     max-width: 600px;
     width: 100%;
+    height:100%;
   }
   div.texto{
     float: none;
