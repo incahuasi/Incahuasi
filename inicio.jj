@@ -49,7 +49,7 @@
 	  </section>
 	  <section class="video">
         <div id="centros_poblados">
-	         <h1 id="tranca">La Tranca - Incahuasi</h1>
+	         <h1 id="tranca">La Tranca</h1>
 	  	     <embed src="latranca_1.jpg" type=""></embed>
 	  	     <p></p>
 
@@ -101,20 +101,20 @@
 	  	</div>
 	  	<img id="linea" src="inca113.png" type=""></img>
 	  	<div id="centros_poblados">
-	         <h1>Uyurpampa</h1>
-	  	     <embed src="latranca_1.jpg" type=""></embed>
+	         <h1 id="moyan">Moyán</h1>
+	  	     <embed src="moyan01.jpg" type=""></embed>
 	  	     <p></p>
 	  	</div>
 	  	<img id="linea" src="inca113.png" type=""></img>
 	  	<div id="centros_poblados">
-	         <h1>Uyurpampa</h1>
-	  	     <embed src="latranca_1.jpg" type=""></embed>
+	         <h1 id="janque">Janque</h1>
+	  	     <embed src="janque01.jpg" type=""></embed>
 	  	     <p></p>
 	  	</div>
 	  	<img id="linea" src="inca113.png" type=""></img>
 	  	<div id="centros_poblados">
-	         <h1>Uyurpampa</h1>
-	  	     <embed src="latranca_1.jpg" type=""></embed>
+	         <h1 id="congacha">Congacha</h1>
+	  	     <embed src="congacha01.jpg" type=""></embed>
 	  	     <p></p>
 	  	</div>
 	  	<img id="linea" src="inca113.png" type=""></img>
