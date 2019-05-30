@@ -50,7 +50,7 @@
 	  <section class="video">
         <div id="centros_poblados">
 	         <h1 id="tranca">La Tranca</h1>
-	  	     <embed src="latranca_1.jpg" type=""></embed>
+	  	     <img src="latranca_1.jpg" type=""></img>
 	  	     <p></p>
 
 	  	</div>
