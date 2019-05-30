@@ -68,16 +68,16 @@
       			<li class="uno"><a href="#camchachala">Canchachalá</a></li>
       		</ul>
       		<ul>
-      			<li class="dos"><a href="#">Moyán</a></li>
+      			<li class="dos"><a href="#moyan">Moyán</a></li>
       		</ul>
       		<ul>
-      			<li class="uno"><a href="#">Janque</a></li>
+      			<li class="uno"><a href="#janque">Janque</a></li>
       		</ul>
       		<ul>
-      			<li class="dos"><a href="#">Congacha</a></li>
+      			<li class="dos"><a href="#congacha">Congacha</a></li>
       		</ul>
       		<ul>
-      			<li class="uno"><a href="#">La Tranca</a></li>
+      			<li class="uno"><a href="#huayrul">Huayrul</a></li>
       		</ul>
       	</nav>
       	<h2 id="link_video">Videos</h2>
