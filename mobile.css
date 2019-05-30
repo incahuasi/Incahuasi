@@ -177,11 +177,13 @@ section.video p{
     height: auto;
   }
   div#centros_poblados img{
+    margin: 0.5em auto;
     width: 100%;
     height: auto;
   }
 /*La Tranca*/
 div#centros_poblados{
+	margin: 0.5em auto;
   width: 100%;
   display: block;
 }
